@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel-js?ref=badge_shield)
+
 salt-channel-js
 ===============
 
@@ -466,3 +468,7 @@ The Node.js tests in the folder js/src-test/tests use a mocked WebSocket
 and verify against the protocol specification. 
 The browser tests communicate with the
 [Java reference implementation](https://github.com/assaabloy-ppi/salt-channel) over WebSocket.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fsalt-channel-js?ref=badge_large)
